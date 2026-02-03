@@ -194,8 +194,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 👨‍💻 Author
 
 **Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
+- GitHub: [@juandcouto](https://github.com/yourusername)
+- LinkedIn: [www.linkedin.com/in/juan-d-couto-36a342303](https://linkedin.com/in/yourprofile)
 - Email: contact@phishnet.com
 
 ---
