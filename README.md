@@ -8,7 +8,7 @@
 
 ## 🎯 Live Demo
 
-**[Try the Demo →](https://yourusername.github.io/phishnet)**
+**[Try the Demo →](https://juandcouto.github.io/phishnet/phishnet.html)**
 
 Simply open `phishnet.html` in your browser or visit the GitHub Pages link above.
 
