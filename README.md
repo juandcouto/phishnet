@@ -41,7 +41,7 @@ Simply open `phishnet.html` in your browser or visit the GitHub Pages link above
 ### Option 1: Run Locally
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/phishnet.git
+   git clone https://github.com/juandcouto/phishnet.git
    cd phishnet
    ```
 
